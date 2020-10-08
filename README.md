@@ -5,7 +5,7 @@ I like to code and learn new things.
 Make projects! Here are some - 
 - Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
 - Minimalistic uncluttered latest news (of BD) - [news.dedsec.life](http://news.dedsec.life/)
-- Link sharing platform - [sic.dedsec.life](https://github.com/Ananto30/cap-em)
+- Link sharing platform - [sic.dedsec.life](http://sic.dedsec.life/)
 - Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
 - A logging annotation library for reactive java - [Loggable](https://github.com/Ananto30/loggable)
 
