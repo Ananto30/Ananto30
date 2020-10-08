@@ -9,6 +9,9 @@ Make projects! Here are some -
 - Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
 - A logging annotation library for reactive java - [Loggable](https://github.com/Ananto30/loggable)
 
+Recently made this ([repo](https://github.com/Ananto30/steam-stat)) - 
+
+![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
 <!--
 **Ananto30/Ananto30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
