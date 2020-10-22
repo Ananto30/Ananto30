@@ -1,6 +1,3 @@
-### Hi I'm Ananto 👋
-I like to code and learn new things.
-
 #### Some recent pet projects - 
 - Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
 - Minimalistic uncluttered latest news (of BD) - [news.dedsec.life](http://news.dedsec.life/)
