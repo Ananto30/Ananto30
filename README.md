@@ -9,7 +9,7 @@
 - ♻︎ Async to sync using Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
 - 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
-This is my [Steam](https://store.steampowered.com/) stats ([repo](https://github.com/Ananto30/steam-stat)) - 
+My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
 
