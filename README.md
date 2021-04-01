@@ -1,11 +1,13 @@
 #### Some recent pet projects - 
-- Realtime story pointing (voting) web app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
-- Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
-- Minimalistic uncluttered latest news (of Bangladesh) - [news.dedsec.life](http://news.dedsec.life/)
-- Link sharing platform - [sic.dedsec.life](http://sic.dedsec.life/) ([repo](https://github.com/Ananto30/sic))
-- Hadith search engine - [askhadith.com](https://askhadith.herokuapp.com/) ([repo](https://github.com/Ananto30/ask-hadith))
-- Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
-- A logging annotation library for reactive java - [Loggable](https://github.com/Ananto30/loggable)
+- 👕 Realtime story pointing (or T-shirt sizing) app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
+- 👫 Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
+- 📰 Minimalistic uncluttered latest news (of Bangladesh) - [news.dedsec.life](http://news.dedsec.life/)
+- 🖇 Link sharing platform - [sic.dedsec.life](http://sic.dedsec.life/) ([repo](https://github.com/Ananto30/sic))
+- 📖 Hadith search engine - [askhadith.com](https://askhadith.herokuapp.com/) ([repo](https://github.com/Ananto30/ask-hadith))
+- 🚦 Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
+- 🪵 A logging annotation library for reactive java - [Loggable](https://github.com/Ananto30/loggable)
+- ♻︎ Async to sync using Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
+- 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
 This is my [Steam](https://store.steampowered.com/) stats ([repo](https://github.com/Ananto30/steam-stat)) - 
 
