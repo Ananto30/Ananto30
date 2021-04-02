@@ -6,7 +6,9 @@
 - 📖 Hadith search engine - [askhadith.com](https://askhadith.herokuapp.com/) ([repo](https://github.com/Ananto30/ask-hadith))
 - 🚦 Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
 - 🪵 A logging annotation library for reactive java - [Loggable](https://github.com/Ananto30/loggable)
-- ♻︎ Async to sync using Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
+- ♻︎ Async to sync using 
+    - Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
+    - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
