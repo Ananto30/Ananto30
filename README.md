@@ -11,11 +11,13 @@
     - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
+My [codersrank](https://profile.codersrank.io/user/ananto30) profile -
+
+<img width=360 src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ananto30&badges=3&show-avatar=true"/>
+
 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
 
 ![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
-
-
 <!--
 **Ananto30/Ananto30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
