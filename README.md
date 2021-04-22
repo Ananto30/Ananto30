@@ -1,7 +1,7 @@
 #### Some recent pet projects - 
 - 👕 Realtime story pointing (or T-shirt sizing) app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
 - 👫 Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
-- 📰 Minimalistic uncluttered latest news (of Bangladesh) - [news.dedsec.life](http://news.dedsec.life/)
+- 📰 Minimalistic uncluttered latest news (of Bangladesh) - [news13.netlify.app](https://news13.netlify.app/)
 - 🖇 Link sharing platform - [sic.dedsec.life](http://sic.dedsec.life/) ([repo](https://github.com/Ananto30/sic))
 - 📖 Hadith search engine - [askhadith.com](https://askhadith.herokuapp.com/) ([repo](https://github.com/Ananto30/ask-hadith))
 - 🚦 Resource limit tracker - [Cap-em](https://github.com/Ananto30/cap-em)
