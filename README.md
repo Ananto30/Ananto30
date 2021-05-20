@@ -1,7 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/)
 
 #### Some recent pet projects - 
-- 👥 Simplest mock server using Go - [Mocker](https://github.com/Ananto30/mocker) 
+- 👥 Create a blazing fast mock server with just a JSON file! (Go) - [Gmocker](https://github.com/Ananto30/mocker) 
 - 👕 Realtime story pointing (or T-shirt sizing) app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
 - 👫 Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
 - 📰 Minimalistic uncluttered latest news (of Bangladesh) - [news13.netlify.app](https://news13.netlify.app/)
