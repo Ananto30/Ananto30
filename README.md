@@ -1,5 +1,7 @@
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/)
 
+##### Currently working on [Zero](https://github.com/Ananto30/zero) - A high performance Python microservice framework for RPC and Pub-Sub
+
 #### Some recent pet projects - 
 - 👥 Create a blazing fast mock server with just a JSON file! (Go) - [Gmocker](https://github.com/Ananto30/mocker) 
 - 👕 Realtime story pointing (or T-shirt sizing) app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
