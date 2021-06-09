@@ -1,4 +1,4 @@
-[LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Resume](https://rxresu.me/r/g4jfqa)
 
 #### Currently working on [Zero](https://github.com/Ananto30/zero) - A high performance Python microservice framework for RPC and Pub-Sub
 
