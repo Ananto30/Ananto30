@@ -5,6 +5,7 @@
 #### Currently working on [Zero](https://github.com/Ananto30/zero) - A high performance Python microservice framework for RPC and Pub-Sub
 
 #### Some recent side projects - 
+- 🛒 Online shop built with svelte (WIP) - [gg13.netlify.app](https://gg13.netlify.app/)
 - 👥 Create a blazing fast mock server with just a JSON file! (Go) - [Gmocker](https://github.com/Ananto30/mocker) 
 - 👕 Realtime story pointing (or T-shirt sizing) app - [storypoint.dedsec.life](http://storypoint.dedsec.life/) ([repo](https://github.com/Ananto30/story-point))
 - 👫 Social network - [golpo.dedsec.life](http://golpo.dedsec.life/) (*Need contributors [repo](https://github.com/Ananto30/golpo13-v2)*)
