@@ -20,11 +20,11 @@
     - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
-### 🎮 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
-![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
-
 ### 🎸 I listen to -
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=81209yw1satwn8hgml5m7oqq1&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=81209yw1satwn8hgml5m7oqq1&redirect=true)
+
+### 🎮 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
+![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
 
 ### 🧑‍💻 My [codersrank](https://profile.codersrank.io/user/ananto30) profile -
 <img width=360 src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ananto30&badges=3&show-avatar=true"/>
