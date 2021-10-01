@@ -21,7 +21,7 @@
 - 📔 A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
 
 ### 🎸 I listen to -
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=81209yw1satwn8hgml5m7oqq1&width=360&count=3)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=81209yw1satwn8hgml5m7oqq1&width=360&count=3&unique=1)
 
 ### 🎮 My [Steam](https://store.steampowered.com/) games! ([repo](https://github.com/Ananto30/steam-stat)) - 
 ![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
