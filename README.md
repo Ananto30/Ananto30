@@ -1,5 +1,5 @@
 ## Hacktober repos 🙌
-Let's build a social network together!
+Let's build a social network together! [Golpo](https://golpo2.herokuapp.com/)
 
 Golpo backend - https://github.com/Ananto30/golpo-express
 
@@ -12,7 +12,7 @@ Golpo frontend - https://github.com/Ananto30/golpo-svelte
 ### 🚀 Projects
 - 0️⃣ **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python framework (RPC + PubSub) to build microservices. (WIP)
 - 📖 **[Ask Hadith](https://github.com/Ananto30/ask-hadith)**: Hadith search engine. [askhadith.com](https://askhadith.com/)
-- 👫 **[Golpo](https://github.com/Ananto30/golpo13-v2)**: Social network. [golpo.dedsec.life](http://golpo.dedsec.life/) (Need contributors 🙌)
+- 👫 **[Golpo](https://github.com/Ananto30/golpo13-v2) [Old]** (new 👆): Social network. [golpo.dedsec.life](http://golpo.dedsec.life/) (Need contributors 🙌)
 - 🗄️ **[KV Store](https://github.com/Ananto30/kv-store)**: Redis based Config or Settings key-value store with UI and code generation.
 - 🛒 **Bazar**: Online shop built with svelte. [gg13.netlify.app](https://gg13.netlify.app/) (WIP)
 - 👥 **[Gmocker](https://github.com/Ananto30/mocker)**: Create a blazing fast mock server with just a JSON file! (Go)
