@@ -1,11 +1,3 @@
-## Hacktober repos 🙌
-Let's build a social network together! [Golpo](https://golpo.dedsec.life)
-
-Golpo backend - https://github.com/Ananto30/golpo-express
-
-Golpo frontend - https://github.com/Ananto30/golpo-svelte
-
-
 ### 👋 Hi, I'm Ananto
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app) | [Resume](https://rxresu.me/r/g4jfqa)
 
