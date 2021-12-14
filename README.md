@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Ananto
-[LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app) | [Resume](https://rxresu.me/r/g4jfqa)
+[LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app)
 
 ### 🚀 Projects
 - **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python framework (RPC + PubSub) to build microservices. (WIP)
