@@ -8,7 +8,7 @@
 - **[KV Store](https://github.com/Ananto30/kv-store)**: Redis based Config or Settings key-value store with UI and code generation.
 - **Bazar**: Online shop built with svelte. [gg13.netlify.app](https://gg13.netlify.app/) (WIP)
 - **[Gmocker](https://github.com/Ananto30/mocker)**: Create a blazing fast mock server with just a JSON file! (Go)
-- **[Storypoint](https://github.com/Ananto30/story-point)**: Realtime story pointing (or T-shirt sizing) app. [storypoint.dedsec.life](http://storypoint.dedsec.life/)
+- **[Storypoint](https://github.com/Ananto30/story-point)**: Realtime story pointing (or T-shirt sizing) app. [storypoint.onrender.com](https://storypoint.onrender.com/)
 - **[News13](https://github.com/Ananto30/news13)**: Minimalistic uncluttered latest news (of Bangladesh). [news13.netlify.app](https://news13.netlify.app/)
 - **[Cap-em](https://github.com/Ananto30/cap-em)**: Resource limit tracker.
 - **[Loggable](https://github.com/Ananto30/loggable)**: A logging annotation library for reactive java.
