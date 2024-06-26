@@ -18,6 +18,3 @@
     - Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
     - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
-
-### 🧑‍💻 My [codersrank](https://profile.codersrank.io/user/ananto30) profile -
-<img width=360 src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ananto30&badges=3&show-avatar=false"/>
