@@ -1,8 +1,12 @@
 ### 👋 Hi, I'm Azizul
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app)
 
+### 🧪 Latest
+- **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python RPC framework
+- **[Pushy](https://github.com/Ananto30/pushy)**: A sister of [Pusher](https://pusher.com/)
+- **[Contractest](https://github.com/Ananto30/contractest)**: Generate test recordings and replay them to ensure contracts are fine
+
 ### 🚀 Projects
-- **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python framework (RPC + PubSub) to build microservices. (WIP)
 - **[Ask Hadith](https://github.com/Ananto30/ask-hadith)**: Hadith search engine. [askhadith.com](https://askhadith.com/)
 - **[Golpo](https://github.com/Ananto30/golpo-svelte)**: Social network. [golpo.vercel.app](http://golpo.vercel.app/) (Need contributors 🙌)
 - **[Steam-Stat](https://github.com/Ananto30/steam-stat)**: 🎮 Dynamically generate your Steam (game) stats card on SVG
@@ -18,5 +22,4 @@
     - Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
     - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
-- Pushy, a sister of [Pusher](https://pusher.com/) - [repo](https://github.com/Ananto30/pushy)
-- Contractest, generate test recordings and replay them to ensure contracts are fine - [repo](https://github.com/Ananto30/contractest)
+
