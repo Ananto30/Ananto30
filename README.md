@@ -9,6 +9,7 @@
 ### 🚀 Projects
 - **[Ask Hadith](https://github.com/Ananto30/ask-hadith)**: Hadith search engine. [askhadith.com](https://askhadith.com/)
 - **[Golpo](https://github.com/Ananto30/golpo-svelte)**: Social network. [golpo.vercel.app](http://golpo.vercel.app/) (Need contributors 🙌)
+- **[WebRTC Video Chat](https://github.com/Ananto30/svelte-webrtc)**: Video chat app using WebRTC. [svelte-webrtc-rust.vercel.app](https://svelte-webrtc-rust.vercel.app)
 - **[Steam-Stat](https://github.com/Ananto30/steam-stat)**: 🎮 Dynamically generate your Steam (game) stats card on SVG
 - **[KV Store](https://github.com/Ananto30/kv-store)**: Redis based Config or Settings key-value store with UI and code generation.
 - **Bazar**: Online shop built with svelte. [gg13.netlify.app](https://gg13.netlify.app/) (WIP)
