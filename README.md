@@ -23,8 +23,3 @@
     - Go channels - [repo](https://github.com/Ananto30/go-async-to-sync)
     - Vert.x - [repo](https://github.com/Ananto30/vertx-async-gateway)
 - A Fiber(Go) backend for a diary app - [repo](https://github.com/Ananto30/diary-backend)
-
-### 🎮 Steam profile
-![Steam Profile](https://steam-stat.vercel.app/api?profileName=juancervantesparaseville)
-
-Generate yours [here](https://github.com/Ananto30/steam-stat)!
