@@ -5,6 +5,7 @@
 - I am currently managing a [Halal healthy tech index](https://ananto30.github.io/azizulindex/) (New to this path 🤓)
 
 ### 🧪 Latest
+- **[Olosh](https://github.com/Ananto30/olosh)**: A lightweight container orchestration tool to utilize idle computer reources.
 - **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python RPC framework
 - **[Pushy](https://github.com/Ananto30/pushy)**: A sister of [Pusher](https://pusher.com/)
 - **[Contractest](https://github.com/Ananto30/contractest)**: Generate test recordings and replay them to ensure contracts are fine
