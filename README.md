@@ -1,9 +1,6 @@
 ### 👋 Hi, I'm Azizul
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app)
 
-### 📈 Index management
-- I am currently managing a [Halal healthy tech index](https://ananto30.github.io/azizulindex/) (New to this path 🤓)
-
 ### 🧪 Latest
 - **[Olosh](https://github.com/Ananto30/olosh)**: A lightweight container orchestration tool to utilize idle computer reources.
 - **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python RPC framework
