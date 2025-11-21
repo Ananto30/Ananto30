@@ -2,6 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/anantodev/) | [Codersrank](https://profile.codersrank.io/user/ananto30) | [Dev.to](https://dev.to/ananto30) | [Medium](https://azizulhaq-ananto.medium.com/) | [Portfolio](https://ananto.netlify.app)
 
 ### 🧪 Latest
+- **[Islamic Duel](https://islamic-duel.vercel.app/)**: Islamic quiz duel game
 - **[Olosh](https://github.com/Ananto30/olosh)**: A lightweight container orchestration tool to utilize idle computer reources.
 - **[Zero](https://github.com/Ananto30/zero)**: A high performance and fast Python RPC framework
 - **[Pushy](https://github.com/Ananto30/pushy)**: A sister of [Pusher](https://pusher.com/)
