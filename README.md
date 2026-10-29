@@ -17,7 +17,6 @@
 - **Bazar**: Online shop built with svelte. [gg13.netlify.app](https://gg13.netlify.app/) (WIP)
 - **[Gmocker](https://github.com/Ananto30/mocker)**: Create a blazing fast mock server with just a JSON file! (Go)
 - **[Storypoint](https://github.com/Ananto30/story-point)**: Realtime story pointing (or T-shirt sizing) app. [storypoint.onrender.com](https://storypoint.onrender.com/)
-- **[News13](https://github.com/Ananto30/news13)**: Minimalistic uncluttered latest news (of Bangladesh). [news13.netlify.app](https://news13.netlify.app/)
 - **[Loggable](https://github.com/Ananto30/loggable)**: A logging annotation library for reactive java.
 
 ### 🔬 POC's
